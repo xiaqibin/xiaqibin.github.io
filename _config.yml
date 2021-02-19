@@ -22,17 +22,17 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 学术研究, description: Research Center, url: 'http://drxia.gitee.io'}
+  - {title: 学术研究, description: Research Center, url: 'http://xiaqibin.me/researchlab'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 plugins: [jekyll-paginate]
-paginate: 10
+paginate: 5
 paginate_path: "page/:num/"
 
 # Comment
 comment:
-    # disqus: vno-jekyll
+    disqus: xiaqibin
     # duoshuo: 
     
 # Social
